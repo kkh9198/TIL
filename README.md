@@ -4,3 +4,8 @@
     if(phone_split[i]!=''):
         phone_dict[phone_split[i].split()[0]]=phone_split[i].split()[1]
 phone_dict
+
+## 판다스 내에 있는 plot만들기 (2021-02-04)
+* plot()
+* plot.bar()
+* plot.barh() bar차트의 가로세로 바꿈
