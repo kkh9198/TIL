@@ -9,3 +9,8 @@ phone_dict
 * plot()
 * plot.bar()
 * plot.barh() bar차트의 가로세로 바꿈
+
+
+## 데이터 프레임으로 만들기 (2021-02-06)
+* value_counts().to_frame() 도수를 데이터 프레임화
+* sns.heatmap(data.corr(),annot=True) 히트맨 그래프,상관계수,annot=숫자 표시
