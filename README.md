@@ -14,3 +14,6 @@ phone_dict
 ## 데이터 프레임으로 만들기 (2021-02-06)
 * value_counts().to_frame() 도수를 데이터 프레임화
 * sns.heatmap(data.corr(),annot=True) 히트맨 그래프,상관계수,annot=숫자 표시
+
+## colab(google colaboratory)에서 판다스 실습하기 
+* 출처:https://github.com/corazzon/cracking-the-pandas-cheat-sheet 
