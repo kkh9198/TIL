@@ -20,3 +20,9 @@ phone_dict
 
 ## 그래프에 평행선 긋기 
 * plt.axhline(30, color='red',linestyle=":")
+
+
+## 모든 컬럼 표시하기  (2021-02-23)
+* 컬럼이 많이 늘어나서 한번에 모든 컬럼이 보이지 않습니다.
+* max_columns 의 수를 지정합니다.
+* pd.options.display.max_columns = 30
