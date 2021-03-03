@@ -13,7 +13,7 @@ phone_dict
 
 ## 데이터 프레임으로 만들기 (2021-02-06)
 * value_counts().to_frame() 도수를 데이터 프레임화
-* sns.heatmap(data.corr(),annot=True) 히트맨 그래프,상관계수,annot=숫자 표시
+* sns.heatmap(data.corr(),annot=True) 히트맵 그래프,상관계수,annot=값 표시
 
 ## colab(google colaboratory)에서 판다스 실습하기 (2021-02-12)
 * 출처:https://github.com/corazzon/cracking-the-pandas-cheat-sheet 
@@ -26,3 +26,7 @@ phone_dict
 * 컬럼이 많이 늘어나서 한번에 모든 컬럼이 보이지 않습니다.
 * max_columns 의 수를 지정합니다.
 * pd.options.display.max_columns = 30
+
+
+## 취업 관련 특강 (2021-03-03)
+* 비전공 학사 신입 기준 스타트업보다는 대기업 공채를 노리는 게 낫다. 
